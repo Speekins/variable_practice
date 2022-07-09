@@ -11,3 +11,11 @@ var usernameValid = true;
 var isSignedIn = false;
 
 console.log(`My favorite quote is '${quote}'`);
+
+myName = "Gary";
+quote = "Welcome to the party, pal!";
+pithySaying = "Where there's a will, there's a way.";
+
+console.log(myName);
+console.log(usernameValid);
+console.log(`You know what they always say, ${pithySaying}.`);
