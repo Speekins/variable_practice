@@ -9,3 +9,5 @@ var populationOfMalta = 525285;
 var doorIsOpen = true;
 var usernameValid = true;
 var isSignedIn = false;
+
+console.log(`My favorite quote is '${quote}'`);
